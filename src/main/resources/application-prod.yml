@@ -8,6 +8,6 @@ spring:
     hibernate:
       ddl-auto: none
 cors:
-  origins: https://rfilmes-prod.up.railway.app/,http://127.0.0.1:5500
+  origins: https://rfilmes-prod.up.railway.app/,https://rfilmes.netlify.app
 security:
   key: ${SECRET_KEY}
