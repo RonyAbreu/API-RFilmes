@@ -1,0 +1,13 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    password: 12345
+    url: jdbc:mysql://localhost:3306/filmes
+    username: root
+  jpa:
+    hibernate:
+      ddl-auto: none
+cors:
+  origins: http://localhost:8080,http://127.0.0.1:5500
+security:
+  key: secret
