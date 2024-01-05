@@ -1,1 +1,0 @@
-insert into tb_usuarios (ativa, conta_nao_bloqueada, conta_nao_expirada, credenciais_nao_bloqueadas, email, nome, role, senha) values (1, 1, 1, 1, 'ronyelison.api.filmes@gmail.com', 'Ronyelison de Oliveira Abreu', 'ADMIN', '$2a$10$fCSnxaNmeyS9AA/Z3yfTm.cx4aUg4St9wLKF7Asq8U6Pk.WrkGYOa');
